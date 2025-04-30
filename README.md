@@ -1,5 +1,7 @@
+<h1 align="center">Hi!👋 My name Joe!</h1>
 
-Hi!👋 I’m an iOS 🍏 developer who enjoys clean code, user-friendly interface, and solutions that really work 🔥
+###
+I’m an iOS 🍏 developer who enjoys clean code, user-friendly interface, and solutions that really work 🔥
 
 <!--  List  -->
 # 
@@ -57,10 +59,12 @@ Hi!👋 I’m an iOS 🍏 developer who enjoys clean code, user-friendly interfa
 -->
 
 <!--  Dev Quote  -->
-
+<!-- 
 ### 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
+-->
 
 ###
 
